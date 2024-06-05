@@ -8,7 +8,7 @@ public class Categoria {
 	private int idCategoria;
 	private String categoria;
 	private String descripcion;
-	//ñskj
+	//ñskjz
 	public Categoria (){}
 	
 	public Categoria(int idCategoria, String categoria, String descripcion) {
