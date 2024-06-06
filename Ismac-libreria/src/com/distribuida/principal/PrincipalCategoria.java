@@ -11,7 +11,7 @@ import com.distribuida.entities.Categoria;
 public class PrincipalCategoria {
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stujj
 		
 		//Patron IoC inverción de control
 		
