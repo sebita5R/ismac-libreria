@@ -15,10 +15,9 @@ import com.distribuida.entities.Autor;
 @Repository
 public class AutorDAOImpl implements AutorDAO {
 
-	
+	//soy gay
 	@Autowired
 	private SessionFactory ssessionFactory;
-
 	@Override
 	@Transactional
 	public List<Autor> findALL() {
@@ -39,14 +38,14 @@ public class AutorDAOImpl implements AutorDAO {
 
 	}
 
-	@Override
+	@Override 
 	public void up(Autor autor) {
 		// TODO Auto-generated method stub
 
 	}
 
 	@Override
-	public void dell(Autor autor) {
+	public void dell(int id) {
 		// TODO Auto-generated method stub
 
 	}

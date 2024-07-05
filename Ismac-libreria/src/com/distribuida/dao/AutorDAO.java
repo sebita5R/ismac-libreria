@@ -13,7 +13,7 @@ public List<Autor> findALL();
 	
 	public void up (Autor autor);
 	
-	public void dell (Autor autor);
+	public void dell (int id);
 	
 	
 	//CRUD avansados
