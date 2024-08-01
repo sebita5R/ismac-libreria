@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 import org.springframework.stereotype.Component;
-
+//hola
 @Component
 @Entity
 @Table (name = "autor")
